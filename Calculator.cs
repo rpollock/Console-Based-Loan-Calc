@@ -9,7 +9,7 @@ namespace Calculator_Lab
 {
     public class LoanCalculator
     {
-        #region Data Inpu
+        #region Data Inputss
         // data inputs
         private decimal _purchasePrice;
         private decimal _loanSize;
